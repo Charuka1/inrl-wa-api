@@ -6,7 +6,7 @@ process.env.NODE_OPTIONS = '--max_old_space_size=2560'//2.5
 const DB_URL =  process.env.DATABASE_URL || '';
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || 'inrl~1655fDtIXb19c3454c1f4e5281c97dd7dde9::16', //your ssid to run bot
+    SESSION_ID: process.env.SESSION_ID || 'cEQXyIDK#khG8zfTJaBKWm7YDwuoHNk3h96i3XVhFLtuBzWhNff8', //your ssid to run bot
     PORT: process.env.PORT || 3000,
     BASE_URL : "https://thoughtful-alvera-igpvdr-2dc99e5b.koyeb.app/",
     PROVIDER_URL: "https://indirect-rosamund-inrl-bot-3c87e07a.koyeb.app",
